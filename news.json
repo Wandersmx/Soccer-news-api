@@ -8,23 +8,23 @@
   },
   {
     "id": 2,
-    "title": "Por que vou parar de sonhar?",
-    "description": "Em carta ao filho, Cristiane recorda infância dura e ambições: Por que vou parar de sonhar?",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/02/em-carta-ao-filho-cristiane-recorda-infancia-dura-e-ambicoes-por-que-vou-parar-de-sonhar.ghtml"
+    "title": "Otimismo",
+    "description": "Treinadora lamenta chances perdidas contra a Suécia e queda de rendimento físico da equipe",
+    "image": "https://s2.glbimg.com/wmcL-AepoH6nWCsF_akH7V7LJCQ=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/5/UrETmJQRS7vudaNbOMMA/gettyimages-1241592073.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
   {
     "id": 3,
-    "title": "Dupla de respeito",
-    "description": "Com show da dupla Jhonson e Aline, Brasil estreia com vitória no Sul-Americano Feminino Sub-17.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
-    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
+    "title": "Copa América x Euro",
+    "description": "Conmebol e Uefa anunciam versão feminina da Finalíssima e Intercontinental Sub-20",
+    "image": "https://s2.glbimg.com/KOwt2b-Ix2mFa3-2EaRMiPosqSk=/0x0:1920x750/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/2/s/07SjltQnCMO6MORfX3Lw/libertadoressub20-22.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/06/02/conmebol-e-uefa-anunciam-versao-feminina-da-finalissima-e-intercontinental-sub-20.ghtml"
   },
   {
     "id": 4,
-    "title": "Estreia marcada",
-    "description": "São Paulo divulga numeração do time feminino e tem nova camisa 10; veja lista.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
-    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+    "title": "Federação holandesa pede desculpas.",
+    "description": "Depois de reportar o caso cinco vezes à KNVB, Vera Pauw decidiu procurar a policia e revelar publicamente o crime, ocorrido quando ela era jogadora.",
+    "image": "https://s2.glbimg.com/waCOuS4If2bBkkvzzzcW1UlK4nY=/0x0:8256x4893/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/i/Z/GyItaGRaORvWl5ZuOhQA/gettyimages-1241593307.jpg",
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/02/federacao-holandesa-pede-desculpas-por-ignorar-denuncia-de-estupro-feita-por-treinadora.ghtml"
   }
 ]
